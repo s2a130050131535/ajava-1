@@ -46,25 +46,35 @@ This example illustrates to find current  access time of session  and last acces
 ![3](https://cloud.githubusercontent.com/assets/16949393/13380658/fb154332-de6d-11e5-9877-1b209b6b0107.png)
 
 practical 4.19
+-----------------------------------------------
+
 ![1](https://cloud.githubusercontent.com/assets/16949393/13380675/61f4a6a6-de6e-11e5-95be-46bfeeadc596.png)
 ![2](https://cloud.githubusercontent.com/assets/16949393/13380676/6260deb6-de6e-11e5-9c03-0b81033994b9.png)
 ![3](https://cloud.githubusercontent.com/assets/16949393/13380677/631007b0-de6e-11e5-922c-827a1fadffa2.png)
 
 practical 4.20
+----------------------------------------------------
+
 ![1](https://cloud.githubusercontent.com/assets/16949393/13380685/af90cb24-de6e-11e5-9815-8cb202da57a9.png)
 ![2](https://cloud.githubusercontent.com/assets/16949393/13380686/b0ab232e-de6e-11e5-9399-0d52601c359e.png)
 
 practical 4.21
+--------------------------------------------------------
+
 ![1](https://cloud.githubusercontent.com/assets/16949393/13380701/17fd5f24-de6f-11e5-81c9-d43af2aecc20.png)
 ![2](https://cloud.githubusercontent.com/assets/16949393/13380705/1cad32d8-de6f-11e5-9251-47119e4f225f.png)
 ![3](https://cloud.githubusercontent.com/assets/16949393/13380708/24811308-de6f-11e5-8c9d-2306dd035aeb.png)
 
 practical 4.22
+---------------------------------------------------------
+
 ![1](https://cloud.githubusercontent.com/assets/16949393/13380719/661f89ac-de6f-11e5-9106-3080ebb5db2e.png)
 ![2](https://cloud.githubusercontent.com/assets/16949393/13380720/67279fa6-de6f-11e5-9b1d-0888014baf27.png)
 ![3](https://cloud.githubusercontent.com/assets/16949393/13380721/68538be2-de6f-11e5-909b-50a4a4d0a6dd.png)
 
 practical4.23
+---------------------------------------------------------
+
 ![1](https://cloud.githubusercontent.com/assets/16949393/13380743/d13be7da-de6f-11e5-88ff-c6678471f550.png)
 ![2](https://cloud.githubusercontent.com/assets/16949393/13380744/d15e9c6c-de6f-11e5-85ee-ac2407de2db6.png)
 ![3](https://cloud.githubusercontent.com/assets/16949393/13380745/d1ede188-de6f-11e5-9951-f8c4c08e7974.png)
