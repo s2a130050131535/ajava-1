@@ -1,0 +1,18 @@
+PRACTICAL 5.13
+------------------------------
+![1](https://cloud.githubusercontent.com/assets/16949393/14377889/e3152e82-fd8f-11e5-9b00-ca17e883395c.png)
+![2](https://cloud.githubusercontent.com/assets/16949393/14377893/e55542e0-fd8f-11e5-917f-859fac17e067.png)
+![3](https://cloud.githubusercontent.com/assets/16949393/14377896/e735404c-fd8f-11e5-8378-30b9ec09a5a4.png)
+![4](https://cloud.githubusercontent.com/assets/16949393/14377898/e91c0936-fd8f-11e5-9ac8-ec2db30baca1.png)
+![5](https://cloud.githubusercontent.com/assets/16949393/14377899/eb807356-fd8f-11e5-8f1b-f1de9d7c2a15.png)
+![6](https://cloud.githubusercontent.com/assets/16949393/14377901/ed5069d4-fd8f-11e5-8d4f-349b0f5702d5.png)
+![7](https://cloud.githubusercontent.com/assets/16949393/14377904/ef955cb8-fd8f-11e5-9965-43475be4ccc5.png)
+![8](https://cloud.githubusercontent.com/assets/16949393/14377909/f1ea4e88-fd8f-11e5-8976-ad9dbec12076.png)
+![9](https://cloud.githubusercontent.com/assets/16949393/14377910/f41a6896-fd8f-11e5-96fe-c267e620839c.png)
+![10](https://cloud.githubusercontent.com/assets/16949393/14377912/f5f06d28-fd8f-11e5-91aa-1e7aa40f6740.png)
+![11](https://cloud.githubusercontent.com/assets/16949393/14377917/fd400e44-fd8f-11e5-89f0-a159d021f571.png)
+![12](https://cloud.githubusercontent.com/assets/16949393/14377920/ff52e6fc-fd8f-11e5-9a01-60bae711b108.png)
+![13](https://cloud.githubusercontent.com/assets/16949393/14377923/016f81f2-fd90-11e5-8364-93d042a5ef2c.png)
+![14](https://cloud.githubusercontent.com/assets/16949393/14377927/03a58156-fd90-11e5-9ed3-ec18fce658c2.png)
+![15](https://cloud.githubusercontent.com/assets/16949393/14377929/067d02be-fd90-11e5-94d7-caeac2bc5159.png)
+![16](https://cloud.githubusercontent.com/assets/16949393/14377930/08c3e088-fd90-11e5-8328-01e89697b146.png)
